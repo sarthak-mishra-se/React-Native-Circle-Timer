@@ -15,6 +15,20 @@
   "bugs": {
     "url": "https://github.com/sarthakmis/React-Native-Circle-Timer/issues"
   },
+    "keywords": [
+    "react-native",
+    "android",
+    "view",
+    "screen",
+    "indicator",
+    "ios",
+    "native",
+    "react",
+    "react-native",
+    "countdown",
+    "countdown timer"
+    "timer"  
+  ],
   "homepage": "https://github.com/sarthakmis/React-Native-Circle-Timer#readme",
   "dependencies": {
     "moment": "^2.24.0"
