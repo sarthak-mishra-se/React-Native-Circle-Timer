@@ -1,0 +1,22 @@
+{
+  "name": "react-native-circle-timer",
+  "version": "1.0.0",
+  "description": "A react native component to render Count Down timer",
+  "main": "CircleTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakmis/React-Native-Circle-Timer.git"
+  },
+  "author": "Sarthak Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarthakmis/React-Native-Circle-Timer/issues"
+  },
+  "homepage": "https://github.com/sarthakmis/React-Native-Circle-Timer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
