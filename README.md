@@ -1,6 +1,6 @@
 # React-Native-Circle-Timer
 
-The React Native Native iOS and Android Circle timer or countdown time renders the Circular countdown timer with user specific time and colors. 
+The React Native Native iOS and Android Circle timer or countdown timer which renders the Circular countdown timer with user specific time and colors. 
 This renders the timer with Hours & Minutes within it
 
 See Example.js for example
