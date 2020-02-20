@@ -80,6 +80,9 @@ export default class CircleTimer extends React.Component {
   }
 
   restart = () => {
+    if (this.timer) {
+      clearInterval(this.timer);
+    }
     this.setState(
       {
         elapsedTime: this.props.seconds,
